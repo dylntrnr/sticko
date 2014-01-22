@@ -4,7 +4,7 @@ Sticko - A free Ghost theme :)
 
 ![screen](http://damianmuti.com/downloads/screen.jpg)
 
-## About this theme
+## About this theme testing
 
 I've been working as a UI/UX Dev and Art Director for the last 12 years. I've also been using the web as a huge source of information for my personal and professional career.
 [sticko](http://sticko.apps.runkite.com/) is my own way to give back something i love and live for to the internet community: a clean, modern, **responsive** and **free** theme for the emerging -and absolutely amazing- blogging platform called [Ghost](http://ghost.org).
